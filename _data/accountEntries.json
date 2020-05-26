@@ -1,0 +1,62 @@
+[
+  {
+    "type": "credit",
+    "amount": 200,
+    "user": "5d7a514b5d2c12c7449be043",
+    "company": "5d713995b721c3bb38c1fabc",
+    "account": "5d7a514b5d2c12c7449be012"
+  },
+  {
+    "type": "credit",
+    "amount": 100,
+    "user": "5d7a514b5d2c12c7449be043",
+    "company": "5d713995b721c3bb38c1fabc",
+    "account": "5d7a514b5d2c12c7449be012"
+  },
+  {
+    "type": "credit",
+    "amount": 100,
+    "user": "5d7a514b5d2c12c7449be044",
+    "company": "5d713995b721c3bb38c1fabc",
+    "account": "5d7a514b5d2c12c7449be013"
+  },
+  {
+    "type": "credit",
+    "amount": 50,
+    "user": "5d7a514b5d2c12c7449be044",
+    "company": "5d713995b721c3bb38c1fabc",
+    "account": "5d7a514b5d2c12c7449be013"
+  },
+  {
+    "type": "debit",
+    "amount": 50,
+    "user": "5d7a514b5d2c12c7449be043",
+    "company": "5d713995b721c3bb38c1fabc",
+    "account": "5d7a514b5d2c12c7449be012",
+    "merchant": "5d713995b721c3bb38c1f5d0"
+  },
+  {
+    "type": "debit",
+    "amount": 10,
+    "user": "5d7a514b5d2c12c7449be043",
+    "company": "5d713995b721c3bb38c1fabc",
+    "account": "5d7a514b5d2c12c7449be012",
+    "merchant": "5d713995b721c3bb38c1f5d0"
+  },
+  {
+    "type": "debit",
+    "amount": 80,
+    "user": "5d7a514b5d2c12c7449be044",
+    "company": "5d713995b721c3bb38c1fabc",
+    "account": "5d7a514b5d2c12c7449be013",
+    "merchant": "5d713995b721c3bb38c1f5d0"
+  },
+  {
+    "type": "debit",
+    "amount": 20,
+    "user": "5d7a514b5d2c12c7449be044",
+    "company": "5d713995b721c3bb38c1fabc",
+    "account": "5d7a514b5d2c12c7449be013",
+    "merchant": "5d713995b721c3bb38c1f5d0"
+  }
+]

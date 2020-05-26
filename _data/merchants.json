@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "5d713995b721c3bb38c1f5d0",
+    "category": "Retail",
+    "name": "Amazon"
+  },
+  {
+    "_id": "5d713995b721c3bb38c1f5d1",
+    "category": "Transportation",
+    "name": "Uber"
+  },
+  {
+    "_id": "5d713995b721c3bb38c1f5d2",
+    "category": "Lodging",
+    "name": "Airbnb"
+  },
+  {
+    "_id": "5d713995b721c3bb38c1f5d3",
+    "category": "Lodging",
+    "name": "Booking"
+  },
+  {
+    "_id": "5d713995b721c3bb38c1f5d4",
+    "category": "Food delivery",
+    "name": "Starbucks"
+  },
+  {
+    "_id": "5d713995b721c3bb38c1f5e4",
+    "category": "Food delivery",
+    "name": "Just Eat"
+  },
+  {
+    "_id": "5d713995b721c3bb38c1f5d5",
+    "category": "Supermarket",
+    "name": "Tesco"
+  },
+  {
+    "_id": "5d713995b721c3bb38c1f3d0",
+    "category": "Supermarket",
+    "name": "Sainsburys"
+  },
+  {
+    "_id": "5d713995b721c3bb38c1f5d7",
+    "category": "Furniture",
+    "name": "Ikea"
+  },
+  {
+    "_id": "5d713995b721c3bb38c1f5d8",
+    "category": "Appareal",
+    "name": "Mark & Spencer"
+  },
+  {
+    "_id": "5d713995b721c3bb38c1f5d9",
+    "category": "Appareal",
+    "name": "H&M"
+  }
+]
